@@ -1,4 +1,4 @@
-project_root/
+OfKhorse/
 │
 ├── backend/               # Express.js backend code
 │   ├── controllers/       # Route controllers
